@@ -1,0 +1,13 @@
+C:\Users\semih\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+C:\Users\semih\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\semih\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\semih\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\semih\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\semih\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\semih\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\semih\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\semih\source\repos\b191210037_ödev3\b191210037_ödev3\obj\Debug\b191210037_ödev3.csprojAssemblyReference.cache
+C:\Users\semih\source\repos\b191210037_ödev3\b191210037_ödev3\obj\Debug\b191210037_ödev3.Properties.Resources.resources
+C:\Users\semih\source\repos\b191210037_ödev3\b191210037_ödev3\obj\Debug\b191210037_ödev3.csproj.GenerateResource.cache
+C:\Users\semih\source\repos\b191210037_ödev3\b191210037_ödev3\obj\Debug\b191210037_ödev3.exe
+C:\Users\semih\source\repos\b191210037_ödev3\b191210037_ödev3\obj\Debug\b191210037_ödev3.pdb
