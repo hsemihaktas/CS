@@ -1,0 +1,8 @@
+C:\Users\semih\source\repos\b191210037_soru2\b191210037_soru2\bin\Debug\b191210037_soru2.exe.config
+C:\Users\semih\source\repos\b191210037_soru2\b191210037_soru2\bin\Debug\b191210037_soru2.exe
+C:\Users\semih\source\repos\b191210037_soru2\b191210037_soru2\bin\Debug\b191210037_soru2.pdb
+C:\Users\semih\source\repos\b191210037_soru2\b191210037_soru2\obj\Debug\b191210037_soru2.csprojAssemblyReference.cache
+C:\Users\semih\source\repos\b191210037_soru2\b191210037_soru2\obj\Debug\b191210037_soru2.Properties.Resources.resources
+C:\Users\semih\source\repos\b191210037_soru2\b191210037_soru2\obj\Debug\b191210037_soru2.csproj.GenerateResource.cache
+C:\Users\semih\source\repos\b191210037_soru2\b191210037_soru2\obj\Debug\b191210037_soru2.exe
+C:\Users\semih\source\repos\b191210037_soru2\b191210037_soru2\obj\Debug\b191210037_soru2.pdb
